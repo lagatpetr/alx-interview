@@ -66,3 +66,4 @@ def canUnlockAll(boxes):
 
     return canUnlockAll
 
+
